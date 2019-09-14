@@ -1,0 +1,1001 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"request",
+				"requestBillID"
+			],
+			[
+				"requestBill",
+				"requestBillID"
+			],
+			[
+				"getIndes",
+				"getIndexedListWithOptionGroups"
+			],
+			[
+				"int",
+				"intval"
+			],
+			[
+				"codeoverride",
+				"codeoverrideDataID"
+			],
+			[
+				"claim",
+				"claimTypes"
+			],
+			[
+				"repo",
+				"reportTypes"
+			],
+			[
+				"req",
+				"requestTypes"
+			],
+			[
+				"backgrou",
+				"background-color\tproperty"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"Type",
+				"TypeService"
+			],
+			[
+				"array",
+				"array_column"
+			],
+			[
+				"result",
+				"result_object"
+			],
+			[
+				"listP",
+				"listProviderGroupID"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"fget",
+				"fgetcsv"
+			],
+			[
+				"codeO",
+				"codeOverrideData"
+			],
+			[
+				"new",
+				"newRequestBillID"
+			],
+			[
+				"start",
+				"start_transaction"
+			],
+			[
+				"sub",
+				"subscriptions"
+			],
+			[
+				"initi",
+				"initialSettings"
+			],
+			[
+				"badge",
+				"badge-success"
+			],
+			[
+				"Tracking",
+				"TrackingPackageSearch"
+			],
+			[
+				"apply",
+				"applyGAF"
+			],
+			[
+				"requestS",
+				"requestSubscriptionID"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "html/tools/wireframes/views/tiles/view.php",
+			"settings":
+			{
+				"buffer_size": 696,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "html/tools/tasks_for_developers/views/_sidebar.php",
+			"settings":
+			{
+				"buffer_size": 703,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "html/tools/tasks_for_developers/views/_navbar.php",
+			"settings":
+			{
+				"buffer_size": 1658,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "html/tools/tasks_for_developers/views/search.php",
+			"settings":
+			{
+				"buffer_size": 159,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "html/tools/tasks_for_developers/views/task/view.php",
+			"settings":
+			{
+				"buffer_size": 736,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "html/tools/tasks_for_developers/views/task/form.php",
+			"settings":
+			{
+				"buffer_size": 900,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "html/tools/wireframes/views/_navbar.php",
+			"settings":
+			{
+				"buffer_size": 1648,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 198.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/sites/g3/wireframes",
+		"/C/sites/g3/wireframes/html",
+		"/C/sites/g3/wireframes/html/tools",
+		"/C/sites/g3/wireframes/html/tools/tasks_for_developers",
+		"/C/sites/g3/wireframes/html/tools/tasks_for_developers/controllers",
+		"/C/sites/g3/wireframes/html/tools/tasks_for_developers/models",
+		"/C/sites/g3/wireframes/html/tools/tasks_for_developers/views",
+		"/C/sites/g3/wireframes/html/tools/tasks_for_developers/views/attributes",
+		"/C/sites/g3/wireframes/html/tools/tasks_for_developers/views/task",
+		"/C/sites/g3/wireframes/html/tools/tasks_for_developers/views/tree"
+	],
+	"file_history":
+	[
+		"/C/sites/am/viv.accumedintel.net/html/application/models/RequestBill_model.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/models/Requestpackage_model.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/controllers/Reportpreview.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/libraries/Reports/ReportRequest.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/libraries/Reports/bill_value/Reports.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/config/routes.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/controllers/Request.php",
+		"/C/Users/Andrew/Downloads/messages (2)",
+		"/C/sites/am/viv.accumedintel.net/html/application/models/lists/List_model.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/models/lists/ListCodeType_model.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/models/Request_model.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/libraries/analytics/AnalyticsRequestBills.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/libraries/analytics/AnalyticsRequestPackage.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/libraries/analytics/AnalyticsRequestPackages.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/libraries/analytics/AnalyticsRequest.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/libraries/analytics/Analytics.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/libraries/analytics/AnalyticsRequestBill.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/libraries/analytics/AnalyticsRequestBillDRG.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/libraries/analytics/AnalyticsRequestBillDRGs.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/libraries/analytics/AnalyticsRequestBillCPTs.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/libraries/analytics/AnalyticsRequestBillCPT.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/libraries/codesearch/Singlecodesearch.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/controllers/Codesearch.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/views/templates/reports/bill_value/report-appendix.php",
+		"/C/xampp/apache/conf/extra/httpd-vhosts.conf",
+		"/C/sites/am/viv.accumedintel.net/html/assets/js/request-package.js",
+		"/C/sites/am/viv.accumedintel.net/html/application/controllers/Requestpackage.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/views/request/selectpackage.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/views/requestpackage/includes/package_form.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/models/Listdatabase_model.php",
+		"/C/sites/am/viv.accumedintel.net/html/index.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/models/lists/ListBillCategory_model.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/helpers/common_helper.php",
+		"/C/sites/am/viv.accumedintel.net/html/assets/js/codesearch.js",
+		"/C/sites/am/viv.accumedintel.net/html/application/controllers/Code.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/models/apis/APIPackage_model.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/models/interfaces/InterfaceAPIPackage_model.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/views/requestpackage/view.php",
+		"/C/sites/am/viv.accumedintel.net/html/assets/js/request.js",
+		"/C/sites/am/viv.accumedintel.net/html/assets/js/request-package-form.js",
+		"/C/sites/am/viv.accumedintel.net/html/application/controllers/Package.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/views/package/list.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/views/package/includes/form.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/views/package/view.php",
+		"/C/sites/am/viv.accumedintel.net/html/assets/js/requestpackage.js",
+		"/C/sites/am/viv.accumedintel.net/html/application/config/config.php",
+		"/C/sites/am/viv.accumedintel.net/html/assets/js/request-form.js",
+		"/C/sites/am/viv.accumedintel.net/html/application/models/CodeOverrideData_model.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/libraries/Reports/future_needs_pi/Reports.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/libraries/Reports/future_needs_wc/Reports.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/libraries/Reports/medical_cost_projection_analysis/Reports.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/libraries/Reports/one_pager/Reports.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/models/databases/Datacms2012_model.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/libraries/database/DataCMSPUFDME2014.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/libraries/database/Datacmsdevice2013.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/libraries/database/DataCMSPUFDME2015.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/libraries/database/DataCMSPUFDME2016.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/libraries/database/DataCMSPUFDME2017.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/views/templates/footer.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/views/templates/header.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/controllers/Excel.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/models/databases/DataCMSPUFDME2014_model.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/models/databases/Datacms_model.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/models/Datacms_model.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/config/database.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/models/databases/DataCMSPUFDME2015_model.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/models/databases/DataCMSPUFDME2016_model.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/models/databases/DataCMSPUFDME2017_model.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/models/Datacms2012_model.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/libraries/database/Datacms2012.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/libraries/database/Datacms2013.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/libraries/database/DataCMSPUFPro2017.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/models/databases/DataCMSPUFPro2017_model.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/models/databases/DataCMSPufPro2016_model.php",
+		"/C/sites/am/viv.accumedintel.net/config/apache2/virtual_hosts.conf",
+		"/C/sites/am/viv.accumedintel.net/html/application/views/request/includes/form_bills.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/controllers/RequestBill.php",
+		"/C/sites/am/viv.accumedintel.net/html/assets/css/style-accumed-intranet.css",
+		"/C/sites/am/viv.accumedintel.net/html/application/views/requestbill/includes/code_type_drg.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/views/requestbill/includes/drg.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/views/requestbill/includes/cpt.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/models/RequestBillDRG_model.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/models/RequestBillCPT_model.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/models/apis/API_RulesEngine_model.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/models/interfaces/InterfaceRulesEngine_model.php",
+		"/C/sites/am/gramma.accumedintel.net/config/apache2/virtual_hosts.conf",
+		"/C/sites/am/viv.accumedintel.net/html/application/views/request/details.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/libraries/Excelwriter.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/views/excel/excelreader.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/views/excel/view.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/models/RequestBillDRGDXCode_model.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/models/RequestBillDRGECICode_model.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/models/RequestBillDRGPRCode_model.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/controllers/EditData.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/models/RequestBillDRGPRCodes_model.php",
+		"/C/Users/Andrew/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/6G5AZB0X/accumed_sample_problem.php",
+		"/C/Users/Andrew/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/6G5AZB0X/codeTest_benjamin_buddle.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/views/requestbill/includes/code_type_drg_header.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/models/RequestBillDRGs_model.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/models/Packagedrg_model.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/models/Requestlog_model.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/libraries/database/Databaseloader.php",
+		"/C/Users/Andrew/AppData/Local/Temp/Temp1_nested-list.zip/nested-list/application/views/index.php",
+		"/C/sites/am/access.accumedintel.com/html/assets/AppAsset.php",
+		"/C/Users/Andrew/AppData/Local/Temp/Temp1_nested-list.zip/nested-list/application/models/ListModel.php",
+		"/C/sites/am/access.accumedintel.com/html/web/index.php",
+		"/C/Users/Andrew/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/6G5AZB0X/solution1a.php",
+		"/C/Users/Andrew/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/6G5AZB0X/solution2b.php",
+		"/C/Users/Andrew/AppData/Local/Temp/Temp1_nested-list.zip/nested-list/application/controllers/Home.php",
+		"/C/Users/Andrew/AppData/Local/Temp/Temp1_nested-list.zip/nested-list/index.php",
+		"/C/Users/Andrew/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/6G5AZB0X/AccumedSampleProblemSolution.php",
+		"/C/Users/Andrew/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/6G5AZB0X/solution1b.php",
+		"/C/Users/Andrew/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/6G5AZB0X/solution2a.php",
+		"/C/Users/Andrew/AppData/Local/Temp/Temp1_example-problem.zip/example-problem/main.py",
+		"/C/Users/Andrew/AppData/Local/Temp/Temp1_example-problem.zip/example-problem/__init__.py",
+		"/C/Users/Andrew/AppData/Local/Temp/Temp1_example-problem.zip/example-problem/item.py",
+		"/C/sites/am/viv.accumedintel.net/html/application/models/RequestBillDRGDXCodes_model.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/models/RequestBillDRGECICodes_model.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/core/MY_Model.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/models/RequestBillCPTs_model.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/views/request/_requestSnapshot.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/views/request/settings.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/views/request/includes/form_packages.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/views/request/_requestSideBar.php",
+		"/C/Users/Andrew/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/6G5AZB0X/Eric Sova Code Assessment Results v.2.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/views/request/view.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/controllers/Dashboard.php",
+		"/C/sites/am/viv.accumedintel.net/html/application/views/dashboard/dashboard.php"
+	],
+	"find":
+	{
+		"height": 39.3333333333
+	},
+	"find_in_files":
+	{
+		"height": 205.0,
+		"where_history":
+		[
+			"C:\\sites\\am\\viv.accumedintel.net\\html\\application",
+			"C:\\sites\\am\\viv.accumedintel.net\\html\\assets\\js",
+			"C:\\sites\\am\\viv.accumedintel.net\\html\\application",
+			"C:\\sites\\am\\viv.accumedintel.net\\html\\assets\\js",
+			"C:\\sites\\am\\viv.accumedintel.net\\html\\application",
+			"C:\\sites\\am\\viv.accumedintel.net\\html\\application\\views",
+			"C:\\sites\\am\\viv.accumedintel.net\\html\\application",
+			"C:\\sites\\am\\viv.accumedintel.net\\html, -*echo $pagination*, -*<?= $pagination*",
+			"C:\\sites\\am\\viv.accumedintel.net\\html -*echo $pagination*, -*<?= $pagination",
+			"C:\\sites\\am\\viv.accumedintel.net\\html",
+			"C:\\sites\\am\\viv.accumedintel.net\\html\\application\\views",
+			"C:\\sites\\am\\viv.accumedintel.net\\html\\application, -*log*, -*bootstrap*, -*jquery*, -*font-aweseome*, -*.data*, -*.json*, -*autoload*",
+			"C:\\sites\\am\\viv.accumedintel.net\\html\\application",
+			"C:\\sites\\am\\viv.accumedintel.net\\html\\application\\libraries",
+			"C:\\sites\\am\\viv.accumedintel.net\\html\\application\\views",
+			"C:\\sites\\am\\viv.accumedintel.net\\html\\application",
+			"C:\\sites\\am\\access.accumedintel.com\\html\\web\\js",
+			"C:\\sites\\am\\viv.accumedintel.net\\html\\application\\views",
+			"C:\\sites\\am\\viv.accumedintel.net\\html\\application",
+			"C:\\sites\\am\\portal.accumedintel.com",
+			"C:\\sites\\am\\viv.accumedintel.net\\html\\application",
+			"C:\\sites\\am\\viv.accumedintel.net\\html\\assets\\js",
+			"C:\\sites\\am\\viv.accumedintel.net\\html\\application",
+			"C:\\sites\\am\\viv.accumedintel.net\\html",
+			"C:\\sites\\am\\viv.accumedintel.net\\html\\application",
+			"C:\\sites\\am\\viv.accumedintel.net",
+			"C:\\sites\\am\\viv.accumedintel.net\\html\\application",
+			"C:\\sites\\am\\viv.accumedintel.net",
+			"C:\\sites\\am\\viv.accumedintel.net\\html",
+			"C:\\sites\\am\\viv.accumedintel.net\\html\\application",
+			"C:\\sites\\am\\viv.accumedintel.net",
+			"C:\\sites\\am\\viv.accumedintel.net\\html\\application",
+			"C:\\sites\\am\\viv.accumedintel.net\\html\\application\\views",
+			"C:\\sites\\am\\viv.accumedintel.net\\html\\application\\models",
+			"C:\\sites\\am\\viv.accumedintel.net\\html\\application\\controllers",
+			"C:\\sites\\am\\viv.accumedintel.net\\html\\application\\views",
+			"C:\\sites\\am\\viv.accumedintel.net\\html\\application\\models",
+			"C:\\sites\\am\\viv.accumedintel.net\\html\\application\\controllers",
+			"C:\\sites\\am\\viv.accumedintel.net\\html\\application\\views",
+			"C:\\sites\\am\\viv.accumedintel.net\\html\\application\\models",
+			"C:\\sites\\am\\viv.accumedintel.net\\html\\application\\controllers",
+			"C:\\sites\\am\\viv.accumedintel.net\\html\\application\\models",
+			"C:\\sites\\am\\viv.accumedintel.net\\html\\application\\controllers",
+			"C:\\sites\\am\\viv.accumedintel.net\\html\\application\\models",
+			"C:\\sites\\am\\api.accumedintel.net\\html\\models",
+			"C:\\sites\\am\\access.accumedintel.com\\html\\controllers",
+			"C:\\sites\\am\\access.accumedintel.com\\html\\models",
+			"C:\\sites\\am\\access.accumedintel.com\\html\\controllers",
+			"C:\\sites\\am\\access.accumedintel.com\\html\\views",
+			"C:\\sites\\am\\access.accumedintel.com\\html\\controllers",
+			"C:\\sites\\am\\access.accumedintel.com\\html\\models",
+			"C:\\sites\\am\\access.accumedintel.com\\html",
+			"C:\\sites\\am\\access.accumedintel.com\\html\\views",
+			"C:\\sites\\am\\access.accumedintel.com\\html",
+			"C:\\sites\\am\\access.accumedintel.com\\html\\views",
+			"C:\\sites\\am\\access.accumedintel.com\\html\\controllers",
+			"C:\\sites\\am\\access.accumedintel.com\\html\\views",
+			"C:\\sites\\am\\app.accumedintel.com\\html",
+			"C:\\sites\\am\\viv.accumedintel.net",
+			"C:\\sites\\am\\viv.accumedintel.net\\html",
+			"C:\\sites\\am\\viv.accumedintel.net\\html\\application",
+			"C:\\sites\\am\\viv.accumedintel.net",
+			"C:\\sites\\am\\viv.accumedintel.net\\html\\application",
+			"C:\\sites\\am\\viv.accumedintel.net",
+			"C:\\sites\\am\\accumedexpress.com\\html\\views",
+			"C:\\sites\\am\\accumedexpress.com\\html",
+			"C:\\sites\\am\\accumedexpress.com\\html\\views",
+			"C:\\sites\\am\\accumedexpress.com\\html\\models",
+			"C:\\sites\\am\\accumedexpress.com\\html\\controllers",
+			"C:\\sites\\am\\accumedexpress.com\\html\\components",
+			"C:\\sites\\am\\accumedexpress.com\\html"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"Node",
+			"$this",
+			"data",
+			"Total Billed Charges in",
+			"_updateDataFile",
+			"firstSource",
+			"cmsDatabaseRange",
+			"nisDBList",
+			"$request",
+			"bind_search",
+			"bindPackageSort",
+			"request-package-form.js",
+			"requestpackage.js",
+			"updateMasterPackage",
+			"update",
+			"oldMasterPackage",
+			"bindselect_package",
+			"bindbill_populate",
+			"getBillsTypes",
+			"change_databse",
+			"getBillsTypes",
+			"providers",
+			"datacms_device_2014",
+			"ta_cms_puf_dme_2016",
+			"Datacms2013device_model",
+			"Datacms2014device_model",
+			"DataCMSPUFDME2014_model",
+			"datacms_device_2013",
+			"HHS",
+			"2016",
+			"2014",
+			"2013",
+			"hhs",
+			"HHS",
+			"2016",
+			"; ?>",
+			"php echo",
+			"bindbill_populate",
+			"$drg->requestBillDRGID",
+			"(empty($drg->requestBillDRGID))? $bill->drgTempID : $drg->requestBillDRGID",
+			"bindCustomQuery",
+			"preview-bill",
+			"formSubmit",
+			"requestElements",
+			"isPost",
+			"errorMessage",
+			"bill-excel",
+			"errorMessage",
+			"Upload_Template",
+			"bill-new",
+			"order_by",
+			"DataOptum201",
+			"tierLevel",
+			"tier",
+			"PR Code",
+			"requestBillDRGPRID",
+			"PR Code",
+			"requestBillDRGPRID",
+			"search-package-button",
+			"bindselect_package",
+			"package-list",
+			"package-listing-select",
+			"package-list",
+			"====",
+			"requestBillDRGPRID",
+			"function settings",
+			"internal_note",
+			"DataCMS",
+			"php echo",
+			"_importRequest",
+			"bindbill_populate",
+			"_errorArray",
+			"The CPT Unit field is required",
+			"bindbill_populate",
+			"TypeMedicalClaim",
+			"TypeMedicalClaim_model",
+			"dbPrecedent",
+			"bindbill_populate",
+			"saveAll",
+			"drgBillValidation",
+			"var_dump",
+			"query",
+			"queryHelper",
+			"_set_where",
+			"applications",
+			"$$update",
+			"$new",
+			"updateData",
+			"packageID",
+			"newPackageData",
+			"<pre>",
+			"getData",
+			"<pre>",
+			"deleteAll",
+			"bindLockBill",
+			"requestBillID",
+			"requestBillMicroTime",
+			"save",
+			"micro",
+			"billCreate",
+			"_model",
+			"function",
+			"Requestbill",
+			"divider",
+			"bindbill_populate",
+			"saveAll",
+			"bindbill_populate",
+			"bindprovidergroup_add",
+			"bindbill_populate",
+			"#preview-",
+			"bindbill_populate",
+			"vicon",
+			"bindbill_populate",
+			"bindAutoAnalyze",
+			"getRequestBillUpdatesFromRules",
+			"bindbill_populate",
+			"bindAutoAnalyze",
+			"bindbill_populate",
+			"bindAutoAnalyze",
+			"bindbill_populate",
+			"bindprovidergroup_populate",
+			"RulesEngine",
+			"each",
+			"bindbillcategory_populate",
+			"previewBill",
+			"bindbillcategory_populate",
+			"bindprovidergroup_add",
+			"autoAnalytics"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Task",
+			"$settings",
+			"primarySource",
+			"dbRange",
+			"changeDatabase",
+			"getBillTypes",
+			"provider",
+			"data_cms_puf_dme_2014",
+			"DataCMSPUFDME2016_model",
+			"DataCMSPUFDME2015_model",
+			"DataCMSPUFDME2014_model",
+			"data_cms_puf_dme_2014",
+			"data_cms_puf_dme_2015",
+			"data_cms_puf_dme_2016",
+			"data_cms_puf_dme_2017",
+			"CMS",
+			"2017",
+			"20142015",
+			"2014",
+			"cms",
+			"CMS",
+			"2017",
+			" ?>",
+			"=",
+			"$requestBillDRGID",
+			"mapElements",
+			"DX Code",
+			"requestBillDRGDXID",
+			"ECI Code",
+			"requestBillDRGECODEID",
+			"requestBillDRGDXID",
+			"requestBillDRGECODEID",
+			"=",
+			"ListBillCategory",
+			"messages",
+			"$data",
+			"$update",
+			"id",
+			"new",
+			"#analytics-preview-",
+			"API",
+			"fa-info",
+			"fa-times",
+			"fa-circle-notch",
+			"\"\\r\\n\\r\\n\");",
+			". \"\\r\\n\\r\\n\";",
+			"exit(1)",
+			"fwrite(STDOUT, ",
+			"$destination",
+			"$source",
+			":",
+			"context",
+			"throw new Exception",
+			"$ex->getMessage()",
+			"SUCCESS - ",
+			"ERROR - ",
+			"$packages",
+			"fa",
+			"class",
+			"fa-plus",
+			"fa",
+			"fa-plus",
+			"fa",
+			"fa-plus",
+			"fa-pencil",
+			"fa",
+			"CPT",
+			"ECI",
+			"Package",
+			"glyphicon",
+			"div",
+			"RequestBillCPT",
+			"Request",
+			"name=\"RequestBill",
+			"NDC",
+			"ndc",
+			"device",
+			"Device",
+			"device",
+			"$drgs->",
+			" ?>",
+			"=",
+			" ?>",
+			"=",
+			" ?>",
+			"=",
+			" ?>",
+			"=",
+			"",
+			"v",
+			"CodeOverrideData",
+			"link",
+			"=",
+			"FROM",
+			"SELECT",
+			"INNER JOIN",
+			"filters",
+			"AS",
+			"SELECT",
+			"2016",
+			"2015",
+			"2016",
+			"2015",
+			"2016",
+			"2015",
+			"2016",
+			"2015",
+			"2016",
+			"2015",
+			"dme_2014",
+			"DME2014",
+			"severity",
+			"Severity",
+			"SEVERITY",
+			"hospital",
+			"Hospital",
+			"HOSPITAL",
+			"Hospital",
+			"severity",
+			"SEVERITY",
+			"Severity",
+			"hospital",
+			"HOSPITAL",
+			"Hospital",
+			"severity",
+			"Severity",
+			"hospital",
+			"Hospital"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "html/tools/wireframes/views/tiles/view.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 696,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								696,
+								696
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "html/tools/tasks_for_developers/views/_sidebar.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 703,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								102,
+								102
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "html/tools/tasks_for_developers/views/_navbar.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1658,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								618,
+								704
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "html/tools/tasks_for_developers/views/search.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 159,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								68,
+								68
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "html/tools/tasks_for_developers/views/task/view.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 736,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								676,
+								676
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "html/tools/tasks_for_developers/views/task/form.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 900,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								524,
+								524
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "html/tools/wireframes/views/_navbar.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1648,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								95,
+								95
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 83.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "wireframes.g3.localhost.sublime-project",
+	"replace":
+	{
+		"height": 70.6666666667
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 332.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
